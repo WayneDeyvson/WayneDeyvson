@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WayneDeyvson 
-- 👀 I’m interested in ...Html, Css, JavaScrip
+- 👀 I’m interested in ...Html, Css, JavaScrip, NodeJS, React, React Native, Bootstrap, Vue, Flutter, Typescrip, Angular, GraphQL, PHP...
 - 👨‍💻 Front-end Developer Student at IFPE.
 
 <!---
