@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @WayneDeyvson 
 - 👀 I’m interested in ...Html, Css, JavaScrip
+- 👨‍💻 Front-end Developer Student at IFPE.
 
 <!---
 WayneDeyvson/WayneDeyvson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
