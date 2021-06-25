@@ -8,7 +8,7 @@
     <img
       align="center"
       height="180"
-      src="https://github-readme-stats.vercel.app/api?username=WayneDeyvson&show_icons=true&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=WayneDeyvson&show_icons=true&theme=tokyonight"
     />
   </a>
 </p>
