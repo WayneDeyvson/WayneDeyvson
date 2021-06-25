@@ -17,7 +17,7 @@
 
 ### Abstract
 
-- 👨‍💻 **Front-end Developer**.
+- 👨‍💻 **Front-end Developer**
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas-IFPE
 - 🔎 Interesse: JavaScript, html, Css, java, React, bootstrap...
 
