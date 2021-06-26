@@ -1,19 +1,15 @@
-<p align="center">
- 
-</p>
-</br>
-</br>
-<p align="center">
+
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="300" height="200">
+</div>
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> How about some stats !
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WayneDeyvson&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="130"
+      height="180"
       src="https://github-readme-stats.vercel.app/api?username=WayneDeyvson&show_icons=true&theme=gruvbox"
     />
   </a>
@@ -64,4 +60,4 @@
    <img alingn="center" src="https://profile-counter.glitch.me/WayneDeyvson/count.svg" />
  </p>
 
-</p>
+ <img src="https://imgur.com/rilHVxA.png"/>
