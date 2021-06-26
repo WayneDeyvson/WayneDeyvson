@@ -1,7 +1,7 @@
 
-<div align="center">
+<div align="side">
 	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="300" height="200">
+	<img src= https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif?sanitize=true" width="300" height="200">
 </div>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> How about some stats !
@@ -10,7 +10,7 @@
     <img
       align="center"
       height="180"
-      src="https://github-readme-stats.vercel.app/api?username=WayneDeyvson&show_icons=true&theme=gruvbox"
+      src="https://github-readme-stats.vercel.app/api?username=WayneDeyvson&show_icons=true&theme=dracula"
     />
   </a>
 </p>
