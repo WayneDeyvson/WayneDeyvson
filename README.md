@@ -44,8 +44,10 @@
    
 </p>
 
-## Contact :iphone:
-														     
+## <div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 	
+
+</p>  													     
  <p align="center">
 <a href="http://linkedin.com/in/wayne-deyvson-b0079120a"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="mailto:wayneupe@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
