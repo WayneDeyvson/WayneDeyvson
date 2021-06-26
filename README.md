@@ -45,12 +45,12 @@
 </p>
 
 ## Contact :iphone:
+														     
+ <p align="center">
+<a href="http://linkedin.com/in/wayne-deyvson-b0079120a"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="https://www.instagram.com/waynedeyvson?r=nametag"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-instagram-48.png" alt="Instagram"></a> &nbsp; &nbsp;
+<a href="mailto:wayneupe@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 
-<p align="center">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/wayne-deyvson-b0079120a/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/wayne-deyvson-b0079120a/">
-    </a>
 </p>
 
 <p align="center"> 
