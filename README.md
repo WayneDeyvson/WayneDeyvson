@@ -5,13 +5,11 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> How about some stats 
-
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="180"
       src="https://github-readme-stats.vercel.app/api?username=WayneDeyvson&show_icons=true&theme=dracula"
-    />
   </a>
 </p>
 
