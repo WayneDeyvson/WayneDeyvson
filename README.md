@@ -49,7 +49,7 @@
  <p align="center">
 <a href="http://linkedin.com/in/wayne-deyvson-b0079120a"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="mailto:wayneupe@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-
+<a href="https://www.instagram.com/waynedeyvson?r=nametag" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
 </p>
 
 <p align="center"> 
