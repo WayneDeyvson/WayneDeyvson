@@ -12,7 +12,7 @@
 - 🌱 Student of Systems Analysis and Development-**IFPE**
 - 🔎 **Interest**: JavaScript, html, Css, java, React, bootstrap...
 
-## developing skills in :nerd_face:
+## skills in 🚀
 <p align="center">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
