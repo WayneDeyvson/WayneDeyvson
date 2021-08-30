@@ -41,8 +41,6 @@
 <a href="mailto:wayneupe@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 <a href="https://www.instagram.com/waynedeyvson?r=nametag"blank">
   <img align="" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
-	</a>&nbsp;
-     <a href="https://t.me/WayneDeyvson" alt="Telegram"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/telegram.png" height="30" width="30">
  </a>
 </p>
 
