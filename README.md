@@ -8,7 +8,7 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
 
 ### About Me...
-- 👨‍💻 **learning** Front-end Developer-**B7Web**
+- 👨‍💻 **learning** Full-Stack Developer-**B7Web**
 - 🌱 Student of Systems Analysis and Development-**IFPE**
 - 🔎 **Interest**: JavaScript, html, Css, Bootstrap, React, Figma...
 
