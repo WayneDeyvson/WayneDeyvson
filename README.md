@@ -8,8 +8,8 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
 
 ### About Me...
-- 👨‍💻 **learning** Full-Stack Developer **B7Web**
-- 🌱 Student of Systems Analysis and Development-**IFPE**
+- 👨‍💻 **learning** - Full Stack Developer > **B7Web**
+- 🌱 Student of Systems Analysis and Development > **IFPE**
 - 🔎 **Interest**: JavaScript, Typescript, Reactjs, Nodejs, Figma...
 
 ## skills in 🚀
