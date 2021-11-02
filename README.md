@@ -9,7 +9,7 @@
 
 ### About Me...
 - 👨‍💻 **learning** - Full Stack Developer > **B7Web**
-- 🌱 Student of Systems Analysis and Development > **IFPE**
+- 🌱 **Student** - of Systems Analysis and Development > **IFPE**
 - 🔎 **Interest**: JavaScript, Typescript, Reactjs, Nodejs, Figma...
 
 ## skills in 🚀
